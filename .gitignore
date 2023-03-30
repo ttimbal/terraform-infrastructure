@@ -1,0 +1,8 @@
+/initializer/.terraform/
+/initializer/.terraform.lock.hcl
+/initializer/terraform.tfstate
+/initializer/terraform.tfstate.backup
+
+/infrastructure/.terraform/
+/infrastructure/.terraform.lock.hcl
+/infrastructure/network/.terraform/
